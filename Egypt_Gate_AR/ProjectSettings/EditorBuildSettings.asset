@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/AddingTexts.unity
+    guid: b1c4d19c5814c51499462199b3a7b0b6
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79e15b2d80a7b0a4ba8f48f9f7e1d78c,
       type: 2}
