@@ -6,7 +6,6 @@ using UnityEngine.XR.ARFoundation;
 [RequireComponent(typeof(ARRaycastManager))]
 public class PlacementController : MonoBehaviour
 {
-
     [SerializeField]
     private GameObject placedPrefab;
 
