@@ -26,6 +26,7 @@ AnimationClip:
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+<<<<<<< Updated upstream
       - serializedVersion: 3
         time: 0.23333333
         value: {x: 0, y: 0, z: 4.5690002}
@@ -44,6 +45,8 @@ AnimationClip:
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+=======
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -70,13 +73,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< Updated upstream
         value: {x: -0.99, y: -1.7, z: -6.1}
+=======
+        value: {x: -0.99, y: -4.91, z: 10.61}
+>>>>>>> Stashed changes
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
+<<<<<<< Updated upstream
         inWeight: {x: 0, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0, y: 0.33333334, z: 0.33333334}
+=======
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -92,6 +104,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
+<<<<<<< Updated upstream
       path: 986735911
       attribute: 4
       script: {fileID: 0}
@@ -104,6 +117,20 @@ AnimationClip:
       script: {fileID: 0}
       typeID: 4
       customType: 0
+=======
+      path: 0
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 986735911
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+>>>>>>> Stashed changes
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 258488298
@@ -118,7 +145,11 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
+<<<<<<< Updated upstream
     m_StopTime: 0.33333334
+=======
+    m_StopTime: 0
+>>>>>>> Stashed changes
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -144,8 +175,13 @@ AnimationClip:
         outSlope: 0
         tangentMode: 136
         weightedMode: 0
+<<<<<<< Updated upstream
         inWeight: 0
         outWeight: 0
+=======
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -158,13 +194,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< Updated upstream
         value: -1.7
+=======
+        value: -4.91
+>>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
         weightedMode: 0
+<<<<<<< Updated upstream
         inWeight: 0
         outWeight: 0
+=======
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -177,13 +222,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< Updated upstream
         value: -6.1
+=======
+        value: 10.61
+>>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
         weightedMode: 0
+<<<<<<< Updated upstream
         inWeight: 0
         outWeight: 0
+=======
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -203,6 +257,7 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< Updated upstream
       - serializedVersion: 3
         time: 0.23333333
         value: 0
@@ -221,6 +276,8 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+=======
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -240,6 +297,7 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< Updated upstream
       - serializedVersion: 3
         time: 0.23333333
         value: 0
@@ -258,6 +316,8 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+=======
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -277,6 +337,7 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< Updated upstream
       - serializedVersion: 3
         time: 0.23333333
         value: 4.5690002
@@ -295,6 +356,8 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+=======
+>>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -367,7 +430,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+<<<<<<< Updated upstream
     path: bone_1/bone_2/bone_7/bone_8/bone_9
+=======
+    path: bone_1/bone_2/bone_7
+>>>>>>> Stashed changes
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -377,27 +444,39 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
+<<<<<<< Updated upstream
     path: bone_1/bone_2/bone_7/bone_8/bone_9
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: bone_1/bone_2/bone_7/bone_8/bone_9
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
+=======
     path: bone_1/bone_2/bone_7
+>>>>>>> Stashed changes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+<<<<<<< Updated upstream
+    path: bone_1/bone_2/bone_7/bone_8/bone_9
+=======
+    path: bone_1/bone_2/bone_7
+>>>>>>> Stashed changes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+<<<<<<< Updated upstream
+    path: bone_1/bone_2/bone_7
+=======
+    path: bone_1/bone_2/bone_7/bone_8/bone_9
+>>>>>>> Stashed changes
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -407,7 +486,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
+<<<<<<< Updated upstream
     path: bone_1/bone_2/bone_7
+=======
+    path: bone_1/bone_2/bone_7/bone_8/bone_9
+>>>>>>> Stashed changes
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -417,7 +500,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+<<<<<<< Updated upstream
     path: bone_1/bone_2/bone_7
+=======
+    path: bone_1/bone_2/bone_7/bone_8/bone_9
+>>>>>>> Stashed changes
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 1

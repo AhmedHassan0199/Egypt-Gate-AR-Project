@@ -1,0 +1,74 @@
+Hello
+My name is Kemet
+Kemet was Egypt's name thousands of year ago.
+arabic:  مرحبا
+اسمي كيميت
+كيميت كان اسم مصر منذ آلاف السنين
+Russian: Привет
+Меня зовут кемет
+Кемет был именем Египта тысячи лет назад
+spanish: Hola
+Mi nombre es kemet
+Kemet era el nombre de Egipto hace miles de años.
+french: Bonjour
+Je m'appelle Kemet
+Kemet était le nom de l'Egypte il y a des milliers d'années
+german: Hallo
+Mein Name ist Kemet
+Kemet war Ägyptens Name vor Tausenden von Jahren
+
+
+Let me take you on a tour
+in our scene, So please follow me with your mobile.
+arabic: اسمح لي أن أخذك في جولة
+في تطبيقنا ، لذا يرجى متابعي بهاتفك المحمول.
+russian: Позвольте мне взять вас в тур
+в нашей сцене, пожалуйста, следуйте за мной со своим мобильным телефоном.
+french: Laisse moi t'emmener faire un tour
+dans notre scène, alors s'il vous plaît suivez-moi avec votre mobile.
+german: Ich nehme dich mit auf eine Tour
+in unserer Szene, also folge mir bitte mit deinem Handy.
+spanish: Déjame llevarte de gira
+en nuestra escena, así que sígueme con tu móvil.
+
+
+Here you will find the name of the pharaoh that you scanned
+spanish: Aquí encontrará el nombre del faraón que escaneó
+german: Hier finden Sie den Namen des Pharaos, den Sie gescannt haben
+french: Vous trouverez ici le nom du pharaon que vous avez scanné
+russain: Здесь вы найдете имя фараона, которого вы сканировали.
+arabic: ستجد هنا اسم الفرعون الذي قمت بمسحه ضوئيًا
+
+Here you will find the role of the pharaoh that you scanned
+arabic: هنا سوف تجد دور الفرعون الذي قمت بمسحه ضوئيًا
+russain: Здесь вы найдете роль отсканированного вами фараона.
+spanish: Aquí encontrará el papel del faraón que escaneó.
+french: Vous trouverez ici le rôle du pharaon que vous avez scanné.
+german: Hier finden Sie die von Ihnen gescannte Rolle des Pharaos.
+
+Here you will find the dynasty of the pharaoh that you scanned
+german:Hier finden Sie die Dynastie des Pharaos, die Sie gescannt haben
+french: Vous trouverez ici la dynastie du pharaon que vous avez scannée
+spanish: Aquí encontrarás la dinastía del faraón que escaneaste
+arabic: ستجد هنا سلالة الفرعون التي قمت بمسحها ضوئيًا
+russain: Здесь вы найдете просканированную вами династию фараона.
+
+Here you will find a short description of the pharaoh that you scanned
+russain: Здесь вы найдете краткое описание отсканированного вами фараона.
+arabic: ستجد هنا وصفًا موجزًا ​​للفرعون الذي قمت بمسحه ضوئيًا
+spanish: Aquí encontrará una breve descripción del faraón que escaneó
+french: Vous trouverez ici une brève description du pharaon que vous avez scanné
+german: Hier finden Sie eine kurze Beschreibung des Pharaos, den Sie gescannt haben
+
+I will leave you here, 
+So please place your camera facing the scanned statue and press ready
+german: Ich werde dich hier lassen,
+Bitte richten Sie Ihre Kamera also auf die gescannte Statue und machen Sie sie druckbereit
+french: je te laisse ici,
+Veuillez donc placer votre appareil photo face à la statue numérisée et prêt à être utilisé
+spanish: Te dejo aqui
+Así que coloque su cámara frente a la estatua escaneada y listo para presionar
+raussian: Я оставлю тебя здесь,
+Поэтому, пожалуйста, поместите камеру лицом к отсканированной статуе и готово к печати.
+arabic: سأتركك هنا
+لذا يرجى وضع الكاميرا في مواجهة التمثال الممسوح ضوئيًا والاستعداد للضغط

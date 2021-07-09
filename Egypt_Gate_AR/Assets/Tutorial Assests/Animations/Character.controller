@@ -663,6 +663,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -2160212679124192664}
+<<<<<<< Updated upstream
     m_Position: {x: 170, y: -370, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6249965861199568525}
@@ -703,15 +704,63 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: -8525484220131447007}
     m_Position: {x: -50, y: -80, z: 0}
+=======
+    m_Position: {x: -2760, y: -2820, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -6249965861199568525}
+    m_Position: {x: -2640, y: -2670, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 2350269605274101502}
+    m_Position: {x: -2510, y: -2570, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -6315766417557723762}
+    m_Position: {x: -2480, y: -2820, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -1921553594175200946}
+    m_Position: {x: -2470, y: -2910, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1157688364167293423}
+    m_Position: {x: -2220, y: -2820, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -237301455923807043}
+    m_Position: {x: -2200, y: -2700, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1115863687892659757}
+    m_Position: {x: -2230, y: -2580, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 5086202006992767082}
+    m_Position: {x: -2270, y: -2480, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 73892023221356068}
+    m_Position: {x: -2270, y: -2370, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -8398542382101915478}
+    m_Position: {x: -2220, y: -2220, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 8504915998444725341}
+    m_Position: {x: -1960, y: -2310, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -208130883429047775}
+    m_Position: {x: -1900, y: -2430, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -8525484220131447007}
+    m_Position: {x: -2980, y: -2530, z: 0}
+>>>>>>> Stashed changes
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions:
   - {fileID: -7174248492742577553}
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
+<<<<<<< Updated upstream
   m_AnyStatePosition: {x: -90, y: -440, z: 0}
   m_EntryPosition: {x: -150, y: -210, z: 0}
   m_ExitPosition: {x: 1250, y: -190, z: 0}
+=======
+  m_AnyStatePosition: {x: -3020, y: -2890, z: 0}
+  m_EntryPosition: {x: -3080, y: -2660, z: 0}
+  m_ExitPosition: {x: -1680, y: -2640, z: 0}
+>>>>>>> Stashed changes
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -8525484220131447007}
 --- !u!1102 &5086202006992767082
